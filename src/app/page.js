@@ -159,7 +159,7 @@ const Home = () => {
                   <ArrowRight className="ml-2 h-4 w-4 transition-transform group-hover:translate-x-1" />
                 </Button>
               </Link>
-              <Link href="/career-path">
+              <Link href="/pages/careerpath">
                 <Button variant="outline" size="lg">
                   Explore Features
                 </Button>
